@@ -971,6 +971,10 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
+    .portfolio-thumb {
+        width: 400px!important;
+        max-width: 400px!important;
+    }
     h1,
     h2,
     h3,
